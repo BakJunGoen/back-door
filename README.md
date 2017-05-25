@@ -1,2 +1,1 @@
-# back-door
-AHK_text
+ipconfig
